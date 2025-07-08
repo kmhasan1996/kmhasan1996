@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+### 👋 Hi, I'm Khandokar Mahidy Hasan — Senior .NET Software Engineer<br><br>🔭 I’m currently working on  <br>Designing and building **scalable enterprise-grade web applications** with **ASP.NET Core 8**, **Entity Framework Core**, and **AWS S3**. My focus is on developing robust systems such as **Learning Management Platforms**, **Financial ERP**, and **Loan Application Portals** with clean architecture and modular code practices.<br><br>👯 I’m looking to collaborate on  <br>- **ASP.NET Core-based enterprise systems** (ERP, CRM, LMS)  <br>- Backend-heavy solutions with **SQL optimization**, **Web APIs**, and **reporting engines**  <br>- Integration with **AWS cloud services** and secure **user management workflows**<br><br>🤝 I’m looking for help with  <br>- **Advanced microservices** and **event-driven architecture** using **Kafka/RabbitMQ**  <br>- **CI/CD pipelines** using **Azure DevOps**, **Jenkins**, or **GitHub Actions**  <br>- Best practices in **Keycloak integration** for .NET authorization and SSO flows<br><br>🌱 I’m currently learning  <br>- **Kubernetes orchestration** for .NET microservices  <br>- **Domain-Driven Design (DDD)** and **Clean Architecture**  <br>- **GraphQL** and **gRPC** in production-level .NET APIs  <br>- **React + Three.js** integration with .NET backend (for 3D room visualizers)<br><br>💬 Ask me about  <br>- Migrating legacy ASP.NET apps to **.NET Core 8**  <br>- Building advanced reports with **RDLC**, **Crystal Reports**, and **iTextSharp**  <br>- Best practices in **SQL**, **LINQ**, and **Entity Framework Core**  <br>- Real-world experience with **Agile/Scrum**, **Git**, and **SVN**<br><br>⚡ Fun fact  <br>I've developed a dynamic LMS for corporate users that issues certifications automatically after training & exams — and a custom-built 3D curtain visualizer tool using **Three.js** + **C# backend rendering with Puppeteer**!<br><br>---<br><br>📫 **Reach me at**  <br>📧 Email: khandokarmahidyhasan@gmail.com  <br>🔗 LinkedIn: [linkedin.com/in/kmhasan96](https://www.linkedin.com/in/kmhasan96/)  <br>🌐 Portfolio: [kmhasan1996.github.io](https://kmhasan1996.github.io/)<br><br>
 
-<!--
-**kmhasan1996/kmhasan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kmhasan1996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmhasan1996) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@khandokarmahidyhasan3839) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khandokarmahidyhasan@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmhasan1996&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kmhasan1996&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmhasan1996&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmhasan1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kmhasan1996&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kmhasan1996&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
