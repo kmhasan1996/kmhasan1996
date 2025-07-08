@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kmhasan1996.github.io/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@khandokarmahidyhasan3839)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kmhasan1996&icon=2&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=kmhasan1996&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -91,7 +91,7 @@ I've developed a dynamic LMS that automatically issues certifications after trai
 
 <div align="center">
   
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kmhasan1996&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmhasan1996&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -107,6 +107,16 @@ I've developed a dynamic LMS that automatically issues certifications after trai
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmhasan1996&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -117,16 +127,14 @@ I've developed a dynamic LMS that automatically issues certifications after trai
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=kmhasan1996&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
   
 ### 🤝 Let's Connect and Build Something Amazing Together!
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+---
+
+⭐ **From [kmhasan1996](https://github.com/kmhasan1996)** | Made with ❤️ and lots of ☕
 
 </div>
