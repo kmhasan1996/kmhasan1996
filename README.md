@@ -135,6 +135,4 @@ I've developed a dynamic LMS that automatically issues certifications after trai
 
 ---
 
-⭐ **From [kmhasan1996](https://github.com/kmhasan1996)** | Made with ❤️ and lots of ☕
-
 </div>
