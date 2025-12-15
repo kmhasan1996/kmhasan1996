@@ -18,24 +18,17 @@
 
 🔭 **Currently Working On:**
 - Building **scalable enterprise-grade web applications** with **ASP.NET Core 8**
-- Developing **Learning Management Platforms**, **Financial ERP**, and **Loan Application Portals**
+- Developing **Learning Management Platforms**
 - Implementing **clean architecture** and **modular code practices** with **Entity Framework Core** and **AWS S3**
 
 👯 **Open to Collaborate On:**
 - ASP.NET Core-based enterprise systems (ERP, CRM, LMS)
 - Backend-heavy solutions with SQL optimization, Web APIs, and reporting engines
-- AWS cloud services integration and secure user management workflows
 
 🌱 **Currently Learning:**
 - **Kubernetes orchestration** for .NET microservices
 - **Domain-Driven Design (DDD)** and **Clean Architecture**
-- **GraphQL** and **gRPC** in production-level .NET APIs
 - **React + Three.js** integration with .NET backend
-
-🤝 **Looking for Help With:**
-- Advanced microservices and event-driven architecture using **Kafka/RabbitMQ**
-- CI/CD pipelines using **Azure DevOps**, **Jenkins**, or **GitHub Actions**
-- Best practices in **Keycloak integration** for .NET authorization and SSO flows
 
 💬 **Ask Me About:**
 - Migrating legacy ASP.NET apps to **.NET Core 8**
@@ -43,10 +36,6 @@
 - Best practices in **SQL**, **LINQ**, and **Entity Framework Core**
 - Real-world experience with **Agile/Scrum**, **Git**, and **SVN**
 
-⚡ **Fun Fact:**
-I've developed a dynamic LMS that automatically issues certifications after training & exams, plus a custom 3D curtain visualizer using **Three.js** + **C# backend with Puppeteer**!
-
----
 
 ## 🛠️ Tech Stack
 
