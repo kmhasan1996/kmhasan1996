@@ -15,7 +15,6 @@
 ---
 
 ## 🚀 About Me
-
 🔭 **Currently Working On:**
 - Building **scalable enterprise-grade web applications** with **ASP.NET Core 8**
 - Developing **Learning Management Platforms**
@@ -26,7 +25,7 @@
 - Backend-heavy solutions with SQL optimization, Web APIs, and reporting engines
 
 🌱 **Currently Learning:**
-- **Kubernetes orchestration** for .NET microservices
+- **Docker,  Continuous Delivery/Deployment (CI/CD)**
 - **Domain-Driven Design (DDD)** and **Clean Architecture**
 - **React + Three.js** integration with .NET backend
 
